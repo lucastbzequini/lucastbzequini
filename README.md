@@ -2,7 +2,7 @@
 
 <div>
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=lucastbzequini&theme=radical"/>
-<img height-"180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafaballerini&layout-compact&langs_count-16&theme-dracula"/>
+<img height-"180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucastbzequini&theme=radical"/>
 </div>
 
 ###
