@@ -1,9 +1,8 @@
 ## olá, eu sou o Tomate 🍅 estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucastbzequini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"/>
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucastbzequini&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucastbzequini&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucastbzequini&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -26,7 +25,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 <img align="center" alt="GitHub" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+src="https://cdn.simpleicons.org/github">
 
 <img align="center" alt="VSCode" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -43,7 +42,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vsco
 <a href="mailto:lucastbzequini@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 </div>
 
 ##
@@ -55,9 +53,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vsco
 </picture>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lucastbzequini&style=for-the-badge&color=blueviolet"/>
-
+  <img src="https://komarev.com/ghpvc/?username=lucastbzequini&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
 ###
