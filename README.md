@@ -1,12 +1,5 @@
 ## olá, eu sou o Tomate 🍅 estudante de Análise e Desenvolvimento de Sistemas
 
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucastbzequini&theme=dracula" alt="stats graph"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucastbzequini&theme=dracula" alt="languages graph"/>
-
-</div>
 
 ###
 
